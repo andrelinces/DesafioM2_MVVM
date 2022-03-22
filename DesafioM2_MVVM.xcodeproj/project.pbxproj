@@ -56,6 +56,11 @@
 		D3777E7527E944880027BC34 /* DesafioM2_MVVM */ = {
 			isa = PBXGroup;
 			children = (
+				D3777E8A27E9481A0027BC34 /* Model */,
+				D3777E8D27E9483C0027BC34 /* ModelView */,
+				D3777E8B27E9482B0027BC34 /* View */,
+				D3777E8C27E948330027BC34 /* Controller */,
+				D3777E8E27E9484C0027BC34 /* Service */,
 				D3777E7627E944880027BC34 /* AppDelegate.swift */,
 				D3777E7827E944880027BC34 /* SceneDelegate.swift */,
 				D3777E7A27E944880027BC34 /* ViewController.swift */,
@@ -65,6 +70,41 @@
 				D3777E8427E944890027BC34 /* Info.plist */,
 			);
 			path = DesafioM2_MVVM;
+			sourceTree = "<group>";
+		};
+		D3777E8A27E9481A0027BC34 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D3777E8B27E9482B0027BC34 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D3777E8C27E948330027BC34 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		D3777E8D27E9483C0027BC34 /* ModelView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ModelView;
+			sourceTree = "<group>";
+		};
+		D3777E8E27E9484C0027BC34 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Service;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
